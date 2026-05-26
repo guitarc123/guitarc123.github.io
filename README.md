@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Philip Chaplin - Machine Learning| Data Engineer |Data analyst 
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
