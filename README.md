@@ -1,6 +1,6 @@
 # Philip Chaplin - Machine Learning| Data Engineer |Data analyst 
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! This repository contains the complete template for a professional, one-page Machine Learning| Data Engineer |Data analyst portfolio.
 
 ## About This Portfolio Template
 
@@ -14,28 +14,24 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+Project A: Building a sales forecasting model in Python.
+Project B: Creating an interactive marketing dashboard in Power BI.
+Project B: Creating a House Price Prediction.
+Project B: Creating a Movie Recommendation System.
+Project B: Creating a Student Score Predictor.
+Project B: Weather Data Pipeline.
+Project B: Data Pipelines.
+Project B: Data Warehouse Project.
 
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+•	Programming: Python, SQL, Power BI, Tableau, Automates data
+•	Data Engineering: Snowflake, Pandas, NumPy, Azure Machine Learning
+•	Machine Learning: TensorFlow, scikit-learn, Supervised Learning, Deep Learning Concepts
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
-## 💡 How to Use This Template
 
-Creating your own portfolio from this template is a simple, four-step process.
 
 ### 1. Create a New Repository from this Template
 Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
