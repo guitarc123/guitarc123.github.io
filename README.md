@@ -25,10 +25,10 @@ Project B: Data Warehouse Project.
 
 
 ## 🛠️ Skills
-
-•	Programming: Python, SQL, Power BI, Tableau, Automates data
 •	Data Engineering: Snowflake, Pandas, NumPy, Azure Machine Learning
 •	Machine Learning: TensorFlow, scikit-learn, Supervised Learning, Deep Learning Concepts
+•	Programming: Python, SQL, Power BI, Tableau, Automates data
+
 
 
 
