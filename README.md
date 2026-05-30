@@ -1,4 +1,4 @@
-# Philip Chaplin  Data Engineer |Machine Learning |Data analyst 
+# Philip Chaplin  |Data Engineer |Machine Learning |Data analyst 
 
 Welcome! This repository contains the complete template for a professional, one-page Machine Learning| Data Engineer |Data analyst portfolio.
 
